@@ -34,7 +34,7 @@ const Navbar = () => {
           onClick={() => scrollToSection('home')}
           className="text-xl font-bold cursor-pointer"
         >
-          █▓▒▒Ashraful Momin▒▒▓█
+          <img src="/logo.webp" alt="logo" className="h-8 w-8" />
         </button>
       </div>
 

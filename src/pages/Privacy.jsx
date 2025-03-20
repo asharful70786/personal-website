@@ -88,7 +88,7 @@ const Privacy = () => {
             If you have any questions about this Privacy Policy, please contact us at:
           </p>
           <p className="mt-2 font-bold">
-            Email: <a href="mailto:youremail@example.com" className="text-primary">youremail@example.com</a>
+            Email: <a href="mailto:ashrafulmomin2@gmail.com" className="text-primary">ashrafulmomin2@gmail.com</a>
           </p>
         </section>
       </div>
